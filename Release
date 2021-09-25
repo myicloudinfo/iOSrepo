@@ -1,7 +1,7 @@
 Origin: Grayrhino
 Label: Grayrhino
 Suite: stable
-Version: 0.5-2
+Version: 0.3.3-12
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
