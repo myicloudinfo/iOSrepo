@@ -1,8 +1,8 @@
-Origin: Grayrhino
-Label: Grayrhino
+Origin: myicloudinfo
+Label: myicloudinfo
 Suite: stable
-Version: 0.5-2
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: a Cydia tweak Grayrhino
+Description: a Cydia repo by myicloudinfo
