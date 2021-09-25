@@ -1,8 +1,8 @@
 Origin: GRAYRHINO
-Label: myicloudinfo
+Label: Sim Unlock
 Suite: stable
-Version: 3.0
-Codename: ios
+Version: 0.5-2
+Codename: iOS
 Architectures: iphoneos-arm
 Components: main
 Description: Grayrhino iOS sim unlock cydia tweak 
