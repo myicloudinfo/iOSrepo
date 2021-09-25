@@ -1,0 +1,13 @@
+Package: com.Grayrhino.FirstRelease
+Version: 0.5-2
+Section: Tweaks
+Maintainer: Grayrhino <infomyicloud@gmail.com>
+Depends: firmware (>10.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debians/com.yourepo.panyolsoft.grayrhino_0.5-2.deb
+Size: 3826 
+MD5sum: F10770F0953EE1BCA994E20019F72575
+Description: iOS SIM UNLOCK
+Name: Grayrhino
+Author: BlueDog <infomyicloud@gmail.com>
+Depiction: Grayrhino
